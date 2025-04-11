@@ -1,0 +1,117 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.warpper {
+    margin: 32px 0 0 60px;
+    
+}
+header {
+    display: inline-block;
+    margin: 86px;
+}
+.link {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+    color: #989D9C;
+    margin: 23px;
+    cursor: pointer;
+}
+.botao {
+    width: 130px;
+    height: 41px;
+    background: #665AE1;
+    border-radius: 20px;
+    border: none;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 20px;
+    color: #ffffff;
+    cursor: pointer;
+}
+img {
+    margin-top: 144px;
+    margin-left: 109px;
+
+}
+#titulo {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 96px;
+    color: #515151;
+}
+.sub-titulo {
+    font-weight: 500;
+    font-size: 58px;
+    line-height:78px;
+    color: #515151;
+
+}
+p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #848484;
+    width: 515px;
+    margin-top: 32px;
+}
+button {
+    border-radius: 20.5px;
+    background: #ADFF00;
+    width: 239px;
+    height: 64px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    color: #000;
+    border: none;
+    cursor: pointer;
+    margin-top: 80px;
+}
+
+@media screen and (max-width: 750px){
+    div {
+        width: 100%;
+        height: 40vh;
+        margin: 0;
+        padding: 0;
+    }
+    .warpper {
+        display: none;
+    }
+    img {
+
+        display: block;
+        width: 93%;
+        margin: 129px 22px 0 14px;
+    }
+    #titulo {
+        font-size: 50px;
+        line-height: normal;
+        margin: 0 -24px;
+
+    }
+    .sub-titulo {
+        font-size: 30px;
+        line-height: normal;
+        margin: 0 -10px;
+       
+
+    }
+    p {
+        display: none;
+    }
+    header {
+        display: block;
+        width: 129%;
+    }
+    button {
+        margin: 0 -16px;
+        
+    }
+    
+}
