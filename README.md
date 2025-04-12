@@ -5,4 +5,4 @@
 <h3> As Tecnologias Ultilizadas!</h3>
 -<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 -<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://github.com/Kenne-Roger/we-care/blob/main/projeto%20devclub.png?raw=true"/>
+<img src="https://github.com/Kenne-Roger/we-care/blob/main/projeto%20devclub%20(2).png?raw=true"/>
